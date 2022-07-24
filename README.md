@@ -4,6 +4,6 @@ Heisann!👋 Jeg heter Per Ellef, og er sisteårig informatikk-student, og fremt
 - Programmeringssårk: Python, Java
 - Kompetanse innen: lineære systemer, optimering, statistikk, maskinlæring
 ## Erfaring
-- <b>2019-dd</b>: Teknisk utvikler for serieutvalget i norsk friidrett. Arbeidsoppgaver innebører å utvikle og vedlikeholde et program for automatisk serieoppsett, samt analysere og kontrollere resultater.
+- <b>2019-dd</b>: Teknisk utvikler for serieutvalget i norsk friidrett. Arbeidsoppgaver innebærer å utvikle og vedlikeholde et program for automatisk serieoppsett, samt analysere og kontrollere resultater.
 
 Jeg kan kontaktes via mail på paaleru@uio.no.
