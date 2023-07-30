@@ -1,6 +1,5 @@
 # Per Ellef Aalerud
-Heisann!👋 Jeg heter Per Ellef arbeider på fritiden med egne prosjekter, både små og store.
-## Ferdigheter og kompetanse
-- Programmeringsspråk: Python, Java, Kotlin
+Heisann!👋 Jeg heter Per Ellef og jobber som utvikler. På fritiden har jeg små og mellomstore prosjekter jeg arbeider med. Jeg skriver hovedsakelig i Python, Java og Kotlin.
 
-Jeg kan kontaktes via mail på per.ellef2000@outlook.com.
+# Kontakt
+Kontakt med på mail via per.ellef2000@outlook.com.
